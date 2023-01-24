@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "3.2.4",
+    "axios": "1.2.4",
     "gm": "1.25.0",
     "lambda-local": "2.0.3",
+    "promise": "8.3.0",
     "sharp": "0.31.3",
     "webp-converter": "2.3.3"
   }
