@@ -4,7 +4,7 @@ const path = require('path')
 const jsonPayload = {
   "url": "https://www.karvi.com.ar/blog/wp-content/uploads/2020/10/208II3-850x567.jpg",
   "directory": "/used_cars",
-  "filename": Math.floor(Math.random() * 9) + "demo.webp",
+  "filename": "demo.webp",
   "saveOrigin": 1,
   "sizes": "[{\"width\":\"196\",\"height\":\"165\"},{\"width\":\"360\",\"height\":\"240\"},{\"width\":\"540\",\"height\":\"360\"},{\"width\":\"960\",\"height\":\"584\"}]",
   "watermark": 0,
